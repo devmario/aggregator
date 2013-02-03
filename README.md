@@ -11,6 +11,7 @@ mysql active feed aggregator
 + [folly](https://github.com/facebook/folly)
 + [double-conversion (for folly)](http://code.google.com/p/double-conversion/)
 + [thrift](https://github.com/apache/thrift)
++ [libevent](https://github.com/libevent/libevent)
 
 ### how to install
 ```bash
