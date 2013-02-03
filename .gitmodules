@@ -7,3 +7,6 @@
 [submodule "thrift"]
 	path = thrift
 	url = https://github.com/apache/thrift.git
+[submodule "libevent"]
+	path = libevent
+	url = https://github.com/libevent/libevent
