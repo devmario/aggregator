@@ -1,0 +1,2 @@
+bin_PROGRAMS=aggregator
+aggregator_SOURCES=src/aggregator.c
