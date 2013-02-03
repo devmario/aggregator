@@ -8,8 +8,9 @@ mysql active feed aggregator
 + git-core
 
 ### Submodule
-+ folly
-+ double-conversion (for folly)
++ [folly](https://github.com/facebook/folly)
++ [double-conversion (for folly)](http://code.google.com/p/double-conversion/)
++ [thrift](https://github.com/apache/thrift)
 
 ### how to install
 ```bash
