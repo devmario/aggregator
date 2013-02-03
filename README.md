@@ -5,10 +5,7 @@ mysql active feed aggregator
 
 ### Requirement
 + build-essential
-
-```sh
-sudo apt-get install build-essential
-```
++ git-core
 
 ### Submodule
 + folly
@@ -17,7 +14,7 @@ sudo apt-get install build-essential
 ### how to install
 ```sh
 sudo apt-get update
-sudo apt-get install git-core
+sudo apt-get install git-core build-essential
 git clone https://github.com/devmario/aggregator.git
 cd aggregator
 git submodule init
