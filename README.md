@@ -12,7 +12,7 @@ mysql active feed aggregator
 + double-conversion (for folly)
 
 ### how to install
-```sh
+```bash
 sudo apt-get update
 sudo apt-get install git-core build-essential
 git clone https://github.com/devmario/aggregator.git
