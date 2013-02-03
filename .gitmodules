@@ -1,0 +1,6 @@
+[submodule "folly"]
+	path = folly
+	url = https://github.com/facebook/folly.git
+[submodule "double-conversion"]
+	path = double-conversion
+	url = https://code.google.com/p/double-conversion/
